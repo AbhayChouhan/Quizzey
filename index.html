@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="logo.jpg" />
+</head>
+<body>
+  <div class="quiz-container">
+    <img id="logo" src="logo.jpg" />
+    <h1 style="text-shadow: 1px 1px 2px black;">Quizzey</h1>
+    <hr />
+
+    <!-- Topic Selection -->
+    <div id="topic-selection">
+      <h2>Select a Topic to Begin:</h2>
+      <select id="topic-dropdown">
+        <option value="" disabled selected>Select Topic</option>
+        <option value="html">HTML</option>
+        <option value="css">CSS</option>
+        <option value="javascript">JavaScript</option>
+        <option value="mysql">MySQL</option>
+        <option value="java">Java</option>
+        <option value="cpp">C++</option>
+      </select>
+      <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+
+    <!-- Quiz UI -->
+    <div id="question-container" style="display: none;">
+      <p id="timer"></p>
+      <p id="question-text"></p>
+      <div id="options-container"></div>
+      <button id="next-btn" onclick="saveAndNext()" style="display: none;">Save & Next</button>
+    </div>
+
+    <!-- Result UI -->
+    <div id="score-container">
+      <p id="score"></p>
+      <p id="remark"></p>
+      <button onclick="location.reload()" id="restart-btn">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
