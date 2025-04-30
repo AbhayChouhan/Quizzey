@@ -2,11 +2,9 @@
 QuizZey is a fully responsive, interactive web application that allows users to test their knowledge on various programming topics including HTML, CSS, JavaScript, MySQL, Java, and C++. With a sleek UI, real-time timer, and progress tracking, QuizZey is ideal for beginners looking to practice fundamental tech concepts.
 
 🚀 Features
-🔘 Topic selection: HTML, CSS, JavaScript, MySQL, Java, C++
+🔘 Topic selection: HTML, CSS, JavaScript, MySQL, Java, C++,etc.
 
 ⏱ 15-second countdown timer per question
-
-✅ Cannot proceed without selecting an answer
 
 📱 Fully responsive and mobile-friendly design
 
@@ -23,10 +21,6 @@ CSS3 (Responsive)
 
 Vanilla JavaScript
 
-📸 Screenshots
-(You can add screenshots of the quiz home, question view, and result page here.)
-
-Would you also like me to include installation/setup instructions and license info?
 
 
 
