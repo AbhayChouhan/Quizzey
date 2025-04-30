@@ -1,27 +1,50 @@
-🎯 QuizZey – Dynamic Web-Based Quiz App
-QuizZey is a fully responsive, interactive web application that allows users to test their knowledge on various programming topics including HTML, CSS, JavaScript, MySQL, Java, and C++. With a sleek UI, real-time timer, and progress tracking, QuizZey is ideal for beginners looking to practice fundamental tech concepts.
+ Features
+ 
+🎯 Multiple topic categories (HTML, CSS, JavaScript, MySQL, Java, C++)
 
-🚀 Features
-🔘 Topic selection: HTML, CSS, JavaScript, MySQL, Java, C++
+⏱ 15-second timer per question
 
-⏱ 15-second countdown timer per question
+🚫 No negative marking
 
-✅ Cannot proceed without selecting an answer
+📊 Instant feedback at the end
 
-📱 Fully responsive and mobile-friendly design
+📝 Score-based result messages
 
-💾 “Save and Next” navigation
+🔄 Page refresh resets progress
 
-🔁 Instant restart option after completion
+⚙️ Technologies Used
 
-🧠 10 basic-level MCQs per topic
+HTML
 
-📂 Tech Stack
-HTML5
+CSS
 
-CSS3 (Responsive)
+JavaScript
 
-Vanilla JavaScript
+
+🚀 How to Run?
+
+📥 Download or clone the repository
+
+🌐 Open the index.html file in any web browser
+
+✅ The quiz will launch and you can start playing immediately!
+
+📦 No External Dependencies
+
+This app is built using pure HTML, CSS, and JavaScript.
+It does not require any external libraries, databases, or build tools.
+
+Some screenshots:
+![Screenshot 2025-04-30 211328](https://github.com/user-attachments/assets/0fe3feb8-cecb-4451-9341-c4455c65306f)
+![Screenshot 2025-04-30 211352](https://github.com/user-attachments/assets/f319c911-e529-4868-a40f-08e6510e7b9c)
+![Screenshot 2025-04-30 211458](https://github.com/user-attachments/assets/0a6b05d2-6055-4207-a937-ec9bee2ada23)
+
+
+
+
+
+
+
 
 
 
