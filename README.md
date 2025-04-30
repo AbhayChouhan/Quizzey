@@ -15,6 +15,7 @@ QuizZey is a fully responsive, interactive web application that allows users to 
 🧠 10 basic-level MCQs per topic
 
 📂 Tech Stack
+
 HTML5
 
 CSS3 (Responsive)
